@@ -1,0 +1,25 @@
+{
+  "version": 6,
+  "project_slug": "hello-world",
+  "ignore_files": [],
+  "services": [
+    {
+      "dir": "services/app",
+      "name": "app",
+      "url": "/app",
+      "access": "public"
+    }
+  ],
+  "landing_page": {},
+  "pricing": {
+    "tiers": [
+      {
+        "name": "Free",
+        "price_cents": 0,
+        "is_default": true,
+        "pricing_model": "one_time",
+        "description": "Free forever"
+      }
+    ]
+  }
+}
