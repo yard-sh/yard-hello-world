@@ -10,9 +10,6 @@
       "access": "public"
     }
   ],
-  "landing_page": {
-    "type": "custom"
-  },
   "pricing": {
     "tiers": [
       {
